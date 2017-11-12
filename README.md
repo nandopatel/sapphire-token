@@ -1,5 +1,9 @@
 # sapphire - a cryptocurrency implementation in less than 1500 lines of code
 
+### Ultimate Goal with this project:
+To provide one of the lightest and most optimised blockchain's for worldwide superfast transactions
+which can accels user adoption.
+
 ### Motivation
 Cryptocurrencies and smart-contracts on top of a blockchain aren't the most trivial concepts to understand, things like wallets, addresses, block proof-of-work, transactions and their signatures, make more sense when they are in a broad context. Inspired by [naivechain](https://github.com/lhartikk/naivechain), this project is an attempt to provide as concise and simple an implementation of a cryptocurrency as possible.
 
